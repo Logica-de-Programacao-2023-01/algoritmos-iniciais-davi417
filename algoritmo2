@@ -1,0 +1,10 @@
+escreva("digite duas unidades de temperatura")
+leia(C/X)
+leia(F/Y)
+diminui ("x-y")
+divide (x/y)
+se C = 0 // F = 32
+se C = 100 // F = 212
+diminui ("F-32")
+divide ("valor de F-32/1.8")
+resultado: N em fahreinheit
