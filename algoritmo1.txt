@@ -1,0 +1,5 @@
+leia x // leia y
+soma == x+y
+se x > 1 // y > 1
+x+y = n
+
