@@ -1,0 +1,7 @@
+leia fatorial (!)
+leia multiplicacao (.)
+leia (x = 5)
+var x! // 5!
+se x! = 5 // 5! = 1.2.3.4.5
+5! = 120
+fim 
