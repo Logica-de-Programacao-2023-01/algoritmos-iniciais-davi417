@@ -1,0 +1,13 @@
+algoritmo de busca linear
+1. leia a ordem dos numeros (9.3.1.8.5.7.4)
+2. leia ordem crescente (menor-maior)
+3. leia ordem decrescente (maior-menor)
+4. se estiver em ordem crescente
+  - escreva os numeros do menor para maior (1. 3. 4. 5. 7. 8. 9)
+   senao
+  - escreva os numeros do maior para o menos (9.8.7.5.4.3.1)
+5. para identificar um numero na ordem
+   - destaque o numero desejado (5*)
+6. escreva a ordem e destaque o numero com *
+  (1.3.4.5*.7.8.9)
+fim
